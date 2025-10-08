@@ -17,7 +17,7 @@ Para ejecutar los cuadernos en Colab manteniendo las utilidades compartidas:
 
 1. Clona este repositorio (o descarga el ZIP) dentro de tu sesión de Colab. Un ejemplo mínimo usando `git` es:
    ```python
-   !git clone https://github.com/<TU_USUARIO>/Robotics.git
+   !git clone https://github.com/dryanguasr/Robotics.git
    %cd Robotics
    ```
    Si solo subes los cuadernos de manera individual, asegúrate de subir también el archivo `notebooks/control/utils.py` o arrastra la carpeta completa `notebooks/control/` al panel de archivos de Colab.
